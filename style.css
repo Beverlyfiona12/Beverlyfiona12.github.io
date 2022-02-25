@@ -33,7 +33,7 @@ nav ul li a
     font-size: 18px;
     color: white;
     padding: 0px 32px;
-    background: navy);
+    background: rgb(7, 7, 7);
     transition: 3s;
 }
 div.image
