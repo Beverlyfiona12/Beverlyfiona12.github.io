@@ -44,3 +44,21 @@ nav ul li a
     background-size: cover;
     
 } */
+.btn{
+    color: white;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding: 16px 40px;
+    border-radius: 500px;
+    display: inline block;
+    font-weight: 500;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background: peru;
+    
+}
+.btn:hover{
+    background: transparent;
+   border-color: peru;
+   color: peru;
+}
