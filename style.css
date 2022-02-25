@@ -33,17 +33,20 @@ nav ul li a
     font-size: 18px;
     color: white;
     padding: 0px 32px;
-    background: peru;
+    background: navy);
     transition: 3s;
 }
-/* div.image
+div.image
 {
     width: 100%;
     height: vh;
-    background: url(./images/beauty.jpg);
-    background-size: auto;
+    background:linear-gradient(to top,rgba(0,0,0,5)50%,rgba(0,0,0,0.5)50%), url(./images/back.jpg);
+    background-size:cover;
+    background-position: center;
+    height:100vh;
+
     
-} */
+}
 
 .btn{
     color: white;
