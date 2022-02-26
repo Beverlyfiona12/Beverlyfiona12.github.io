@@ -32,7 +32,7 @@ nav ul li a
     text-decoration: none;
     font-size: 18px;
     color: white;
-    padding: 0px 32px;
+    padding: 10px 32px;
     background: rgb(7, 7, 7);
     transition: 3s;
 }
@@ -65,4 +65,27 @@ div.image
     background: transparent;
    border-color: peru;
    color: peru;
+}
+.Content{
+    width: 2000px;
+    height: auto;
+    margin: auto;
+    color: beige;
+    position: relative;
+}
+.par.par{
+    padding-left: 30px;
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    line-height: 30px;
+    
+}
+.Content h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    padding-left: 30px;
+    letter-spacing: 0px;
+    color: peru;
 }
