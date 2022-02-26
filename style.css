@@ -75,6 +75,9 @@ div.image {
   font-family: Arial, Helvetica, sans-serif;
   letter-spacing: 1px;
   line-height: 30px;
+  font-weight: 900;
+  font-style: italic;
+  
 }
 .Content h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
