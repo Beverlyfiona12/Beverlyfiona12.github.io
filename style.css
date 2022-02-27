@@ -13,12 +13,11 @@ html,body
 }
 
 nav {
-  width: 100%;
+  width: 1005;
   height: 75px;
   background-color: rgb(18, 18, 19);
   line-height: 75px;
   padding: 0px 100px;
-  position: fixed;
   z-index: 1;
   display: flex;
   justify-content: space-between;
@@ -129,51 +128,8 @@ h2.title {
   text-transform: uppercase;
   font-weight: 700;
 }
-/* .box
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 400px;
-    color: white;
-    font-size: 15px;
-    
-}
 
-.bax
-{
-    display: flex;
-    justify-content: left;
-    align-items: left;
-    min-height: 400px;
-    color: beige;
-    font-size: 20px;
-}
-.card
-{
-    height: 200px;
-    width: 335px;
-    padding: 20px 35px;
-    background: black;
-    border-radius: 20px;
-    margin: 15px;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-}
-.Card
-{
-    height: 300px;
-    width: 335px;
-    padding: 20px 35px;
-    background: black;
-    border-radius: 20px;
-    margin: 15px;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-} */
-.sec3{
+.sec2{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -181,6 +137,7 @@ h2.title {
     padding: 4rem;
     text-align: center;
 }
-.sec3 .link ul{
+.sec2 .link ul{
     list-style: none;
+    color: black;
 }
